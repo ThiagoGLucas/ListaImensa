@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class Main {
+public class QuestaoVinteETres {
 
 	public static void main(String[] args) {
 		Scanner ref = new Scanner(System.in);
@@ -12,8 +10,5 @@ public class Main {
 		double mm = a * 1000;
 		
 		System.out.println("O comprimento indicado corresponde a: " + cm + " centímetros " + " e " + mm + " milimetros" );
-		
-		
-		
 	}
 }
